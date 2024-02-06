@@ -1,0 +1,16 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore .env file
+.env
+
+# Ignore logs
+*.log
+
+# Ignore any build directories
+dist/
+
+# Ignore any cache files
+.nyc_output/
+coverage/
+.cache/
