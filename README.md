@@ -13,7 +13,7 @@ To get started with the backend, follow these steps:
 
 ```bash
 git clone [<repository_url>](https://github.com/theHabesa1/Paitent-back-end)
-cd backend
+cd Paitent-back-end
 ```
 
 2. Install the dependencies using npm.
